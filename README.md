@@ -1,4 +1,4 @@
-# hackerbay-frontend-task
+# React Maze Game
 
 ## A maze game app developed with React using create-react-app.
 
