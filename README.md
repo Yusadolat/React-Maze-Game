@@ -7,10 +7,10 @@
 Do the following:
 
 clone this repo to your local directory.
-`git clone https://github.com/Yusadolat/Hacker-interview-frontend.git`
+`git clone https://github.com/Yusadolat/React-Maze-Game.git
 
 navigate to directory
-`cd hackerbay-interview-frontend`
+`cd to React Maze Directory`
 
 #### run
 
